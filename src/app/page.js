@@ -207,8 +207,8 @@ export default function Home() {
             Ready to Transform Your Business?
           </h2>
           <p className="text-xl text-gray-300 mb-8 max-w-3xl mx-auto">
-            Let's discuss your project and create something amazing together.
-            Get started with a free consultation.
+            Let&apos;s discuss your project and create something amazing
+            together. Get started with a free consultation.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link

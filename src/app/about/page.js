@@ -42,7 +42,7 @@ export default function About() {
               </p>
               <p className="text-lg text-gray-600 leading-relaxed">
                 We believe in combining creativity with technology to deliver
-                exceptional results that exceed our clients' expectations.
+                exceptional results that exceed our clients&apos; expectations.
               </p>
             </div>
             <div className="bg-gradient-to-br from-blue-50 to-indigo-100 p-12 rounded-3xl text-center">
@@ -111,7 +111,7 @@ export default function About() {
           <div className="text-center bg-gradient-to-br from-gray-900 via-blue-900 to-purple-900 rounded-3xl p-12 text-white">
             <h3 className="text-3xl font-bold mb-4">Ready to Work Together?</h3>
             <p className="text-xl text-gray-300 mb-8">
-              Let's create something amazing for your business.
+              Let&apos;s create something amazing for your business.
             </p>
             <Link
               href="/contact"

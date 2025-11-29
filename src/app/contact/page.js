@@ -43,8 +43,8 @@ export default function Contact() {
             </span>
           </h1>
           <p className="text-xl text-gray-300 max-w-3xl mx-auto">
-            Ready to transform your business? Let's discuss your project and
-            create something amazing together.
+            Ready to transform your business? Let&apos;s discuss your project
+            and create something amazing together.
           </p>
         </div>
       </section>
